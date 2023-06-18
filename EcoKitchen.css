@@ -211,9 +211,11 @@ margin: auto 90px;
 .goals li{
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 .goals img{
     height: 50px;
+    width: 50px;
 }
 
 .about{
