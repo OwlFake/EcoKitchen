@@ -327,6 +327,9 @@ margin: auto 90px;
     align-items: center;
     gap: 20px;
 }
+.ftcont h4{
+    text-align: end;
+}
 .contft{
     display: flex;
     align-items: center;
