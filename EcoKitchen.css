@@ -306,6 +306,11 @@ margin: auto 90px;
     align-items: center;
     justify-content: center;
 }
+.ft----{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
 .ft---- img, .----ft img{
     height: 50px
 }
