@@ -76,6 +76,7 @@ margin: auto 90px;
     color: #54595F;
     margin: 50px;
     width: 50%;
+    height: 100%
 }
 .login li{
     display: flex;
