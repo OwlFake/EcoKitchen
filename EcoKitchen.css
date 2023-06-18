@@ -31,7 +31,6 @@ a{
 .content{
     display: flex;
     height: 100vh;
-    align-items: center;
 }
 .desc{
     display: flex;
@@ -73,11 +72,12 @@ margin: auto 90px;
 .login{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    height: 100%;
     gap: 50px;
     color: #54595F;
     margin: 50px;
     width: 50%;
-    height: 100%
 }
 .login li{
     display: flex;
